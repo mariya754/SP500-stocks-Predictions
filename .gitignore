@@ -1,0 +1,4 @@
+.vscode
+stocksVenv
+__pycache__
+keys.py
